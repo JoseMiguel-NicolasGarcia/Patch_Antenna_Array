@@ -1,0 +1,12 @@
+With MeshSettings
+     With .ItemMeshSettings ("solid$taladros:taladro_2")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "-1", "0", "1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$taladros:taladro_6")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With

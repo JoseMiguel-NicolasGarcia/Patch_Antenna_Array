@@ -1,0 +1,21 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 05:47 PM Sunday, 03. April 2022
+
+  Error: No calculated Farfield Result with correct excitation string found.
+(ReportError "No calculated Farfield Result with correct excitation string found.")(Line:2243)
+  Evaluating 'Directivity, constant Phi=0': 4 s
+
+  Total time: 4 s  ( = 0 h, 0 m, 4 s )
+
+Template based postprocessing finished at: 05:47 PM Sunday, 03. April 2022
+----------------------------------------------------------------------------------------

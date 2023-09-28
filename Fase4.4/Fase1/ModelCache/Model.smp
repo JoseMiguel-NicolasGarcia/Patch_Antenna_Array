@@ -1,0 +1,312 @@
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_1")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_2")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_3")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_4")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_5")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_6")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_7")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_8")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_9")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_10")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_11")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_12")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_13")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_14")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_15")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_16")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_17")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_18")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_19")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_20")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_21")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_22")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_23")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_24")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_25")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_26")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_27")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_28")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_29")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_30")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_31")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_32")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_33")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_34")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_35")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_36")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_37")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_38")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_39")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_40")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_41")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_42")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_43")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_44")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_45")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_46")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_47")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_48")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_49")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_50")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_51")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_52")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With

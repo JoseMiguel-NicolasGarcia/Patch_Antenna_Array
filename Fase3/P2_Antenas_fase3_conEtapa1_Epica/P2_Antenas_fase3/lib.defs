@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE P2_Antenas_lib P2_Antenas_lib
+ASSIGN P2_Antenas_lib libMode shared

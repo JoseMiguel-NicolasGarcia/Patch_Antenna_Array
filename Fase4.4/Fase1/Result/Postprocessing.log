@@ -1,0 +1,27 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 11:56 AM Monday, 04. April 2022
+
+  Evaluating 'Directivity, constant Phi=0': 1 s
+
+  Total time: 2 s  ( = 0 h, 0 m, 2 s )
+
+Template based postprocessing finished at: 11:56 AM Monday, 04. April 2022
+----------------------------------------------------------------------------------------
+Template based postprocessing started at: 09:39 AM Friday, 22. April 2022
+
+  Evaluating 'Directivity, constant Phi=0': 1 s
+
+  Total time: 2 s  ( = 0 h, 0 m, 2 s )
+
+Template based postprocessing finished at: 09:39 AM Friday, 22. April 2022
+----------------------------------------------------------------------------------------

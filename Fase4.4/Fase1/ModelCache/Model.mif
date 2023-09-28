@@ -1,0 +1,672 @@
+2015_07_22
+[GSCALE: 0.001]
+[PCB_BODIES: False]
+[PCB_IMPORT: False]
+[PCB_IMPORT_NEW: False]
+[DISABLE_FAST_LOAD: False]
+[BBOX:-99.565222900000009 35.398622900000007 -144.9896229 134.9896229 0 21.604622899999999]
+[BBOX_STRUCTURE:-84.575600000000009 20.409000000000006 -130 120 0 6.6150000000000002]
+[UNITS]
+     .Geometry "mm" 
+     .Frequency "GHz" 
+     .Time "ns" 
+     .TemperatureUnit "Kelvin" 
+     .Voltage "V" 
+     .Current "A" 
+     .Resistance "Ohm" 
+     .Conductance "Siemens" 
+     .Capacitance "PikoF" 
+     .Inductance "NanoH" 
+     .SetResultUnit "frequency", "frequency", "" 
+[ENDUNITS]
+[FREQUENCYRANGE]
+Solver.FrequencyRange "4", "6" 
+[ENDFREQUENCYRANGE]
+[BACKGROUND]
+     .XminSpace "0.0" 
+     .XmaxSpace "0.0" 
+     .YminSpace "0.0" 
+     .YmaxSpace "0.0" 
+     .ZminSpace "0.0" 
+     .ZmaxSpace "0.0" 
+     .ApplyInAllDirections "False" 
+[ENDBACKGROUND]
+[BOUNDARY]
+     .Xmin "expanded open"
+     .Xmax "expanded open"
+     .Ymin "expanded open"
+     .Ymax "expanded open"
+     .Zmin "electric"
+     .Zmax "expanded open"
+     .Xsymmetry "none"
+     .Ysymmetry "none"
+     .Zsymmetry "none"
+     .ApplyInAllDirections "False"
+     .OpenAddSpaceFactor "0.5"
+     .ThermalBoundary "Xmin", "isothermal"
+     .ThermalBoundary "Xmax", "isothermal"
+     .ThermalBoundary "Ymin", "isothermal"
+     .ThermalBoundary "Ymax", "isothermal"
+     .ThermalBoundary "Zmin", "isothermal"
+     .ThermalBoundary "Zmax", "isothermal"
+     .ThermalSymmetry "X", "none"
+     .ThermalSymmetry "Y", "none"
+     .ThermalSymmetry "Z", "none"
+     .ResetThermalBoundaryValues
+     .WallFlow "Xmin", "NoSlip"
+     .WallFlow "Xmax", "NoSlip"
+     .WallFlow "Ymin", "NoSlip"
+     .WallFlow "Ymax", "NoSlip"
+     .WallFlow "Zmin", "NoSlip"
+     .WallFlow "Zmax", "NoSlip"
+[ENDBOUNDARY]
+[LOCALMESHPROPS]
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_1")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_2")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_3")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_4")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_5")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_6")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_7")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_8")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_9")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_10")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_11")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_12")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_13")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_14")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_15")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_16")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_17")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_18")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_19")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_20")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_21")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_22")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_23")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_24")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_25")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_26")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_27")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_28")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_29")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_30")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_31")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_32")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_33")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_34")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_35")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_36")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_37")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_38")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_39")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_40")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_41")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_42")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_43")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_44")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_45")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_46")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_47")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_48")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_49")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_50")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_51")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$cond:import_52")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "1", "0", "-1", "0", "0", "0", "0", "1" 
+     End With
+End With
+[ENDLOCALMESHPROPS]
+[MATERIAL: $CoilMaterial$]
+     .Rho "0.0"
+     .ThermalType "Normal"
+     .ThermalConductivity "0"
+     .SpecificHeat "0", "J/K/kg"
+     .DynamicViscosity "0"
+     .Emissivity "0"
+     .MetabolicRate "0.0"
+     .VoxelConvection "0.0"
+     .BloodFlow "0"
+     .MechanicsType "Unused"
+     .FrqType "all"
+     .Type "Normal"
+     .MaterialUnit "Time", "s"
+     .Epsilon "1.0"
+     .Mu "1.0"
+     .Sigma "0"
+     .TanD "0.0"
+     .TanDFreq "0.0"
+     .TanDGiven "False"
+     .TanDModel "ConstSigma"
+     .EnableUserConstTanDModelOrderEps "False"
+     .ConstTanDModelOrderEps "1"
+     .SetElParametricConductivity "False"
+     .ReferenceCoordSystem "Global"
+     .CoordSystemType "Cartesian"
+     .SigmaM "0"
+     .TanDM "0.0"
+     .TanDMFreq "0.0"
+     .TanDMGiven "False"
+     .TanDMModel "ConstSigma"
+     .EnableUserConstTanDModelOrderMu "False"
+     .ConstTanDModelOrderMu "1"
+     .SetMagParametricConductivity "False"
+     .DispModelEps  "None"
+     .DispModelMu "None"
+     .DispersiveFittingSchemeEps "Nth Order"
+     .MaximalOrderNthModelFitEps "10"
+     .ErrorLimitNthModelFitEps "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelEps "False"
+     .DispersiveFittingSchemeMu "Nth Order"
+     .MaximalOrderNthModelFitMu "10"
+     .ErrorLimitNthModelFitMu "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelMu "False"
+     .UseGeneralDispersionEps "False"
+     .UseGeneralDispersionMu "False"
+     .NLAnisotropy "False"
+     .NLAStackingFactor "1"
+     .NLADirectionX "1"
+     .NLADirectionY "0"
+     .NLADirectionZ "0"
+     .Colour "0", "1", "1" 
+     .Wireframe "False" 
+     .Reflection "False" 
+     .Allowoutline "True" 
+     .Transparentoutline "False" 
+     .Transparency "0" 
+     .Create
+[ENDMATERIAL]
+[MATERIAL: Folder1/FR4]
+     .Rho "0.0"
+     .ThermalType "Normal"
+     .ThermalConductivity "0"
+     .SpecificHeat "0", "J/K/kg"
+     .DynamicViscosity "0"
+     .Emissivity "0"
+     .MetabolicRate "0.0"
+     .VoxelConvection "0.0"
+     .BloodFlow "0"
+     .MechanicsType "Unused"
+     .FrqType "all"
+     .Type "Normal"
+     .MaterialUnit "Frequency", "GHz"
+     .MaterialUnit "Geometry", "mm"
+     .MaterialUnit "Time", "ns"
+     .MaterialUnit "Temperature", "Kelvin"
+     .Epsilon "3.9"
+     .Mu "1"
+     .Sigma "0.0"
+     .TanD "0.02"
+     .TanDFreq "5"
+     .TanDGiven "True"
+     .TanDModel "ConstTanD"
+     .EnableUserConstTanDModelOrderEps "False"
+     .ConstTanDModelOrderEps "1"
+     .SetElParametricConductivity "False"
+     .ReferenceCoordSystem "Global"
+     .CoordSystemType "Cartesian"
+     .SigmaM "0"
+     .TanDM "0.0"
+     .TanDMFreq "0.0"
+     .TanDMGiven "False"
+     .TanDMModel "ConstTanD"
+     .EnableUserConstTanDModelOrderMu "False"
+     .ConstTanDModelOrderMu "1"
+     .SetMagParametricConductivity "False"
+     .DispModelEps "None"
+     .DispModelMu "None"
+     .DispersiveFittingSchemeEps "Nth Order"
+     .MaximalOrderNthModelFitEps "10"
+     .ErrorLimitNthModelFitEps "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelEps "False"
+     .DispersiveFittingSchemeMu "Nth Order"
+     .MaximalOrderNthModelFitMu "10"
+     .ErrorLimitNthModelFitMu "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelMu "False"
+     .UseGeneralDispersionEps "False"
+     .UseGeneralDispersionMu "False"
+     .NLAnisotropy "False"
+     .NLAStackingFactor "1"
+     .NLADirectionX "1"
+     .NLADirectionY "0"
+     .NLADirectionZ "0"
+     .Colour "1", "0.501961", "1" 
+     .Wireframe "False" 
+     .Reflection "False" 
+     .Allowoutline "True" 
+     .Transparentoutline "False" 
+     .Transparency "0" 
+     .Create
+[ENDMATERIAL]
+[MATERIAL: PEC]
+     .Rho "0.0"
+     .ThermalType "PTC"
+     .MechanicsType "Unused"
+     .FrqType "all"
+     .Type "Pec"
+     .MaterialUnit "Frequency", "Hz"
+     .MaterialUnit "Geometry", "m"
+     .MaterialUnit "Time", "s"
+     .MaterialUnit "Temperature", "Kelvin"
+     .Epsilon "1"
+     .Mu "1"
+     .ReferenceCoordSystem "Global"
+     .CoordSystemType "Cartesian"
+     .NLAnisotropy "False"
+     .NLAStackingFactor "1"
+     .NLADirectionX "1"
+     .NLADirectionY "0"
+     .NLADirectionZ "0"
+     .Colour "0.8", "0.8", "0.8" 
+     .Wireframe "False" 
+     .Reflection "True" 
+     .Allowoutline "True" 
+     .Transparentoutline "False" 
+     .Transparency "0" 
+     .Create
+[ENDMATERIAL]
+[MATERIAL: Vacuum]
+     .Rho "0.0"
+     .ThermalType "Normal"
+     .ThermalConductivity "0"
+     .SpecificHeat "0", "J/K/kg"
+     .DynamicViscosity "0"
+     .Emissivity "0"
+     .MetabolicRate "0.0"
+     .VoxelConvection "0.0"
+     .BloodFlow "0"
+     .MechanicsType "Unused"
+     .FrqType "all"
+     .Type "Normal"
+     .MaterialUnit "Frequency", "Hz"
+     .MaterialUnit "Geometry", "m"
+     .MaterialUnit "Time", "s"
+     .MaterialUnit "Temperature", "Kelvin"
+     .Epsilon "1.0"
+     .Mu "1.0"
+     .Sigma "0"
+     .TanD "0.0"
+     .TanDFreq "0.0"
+     .TanDGiven "False"
+     .TanDModel "ConstSigma"
+     .EnableUserConstTanDModelOrderEps "False"
+     .ConstTanDModelOrderEps "1"
+     .SetElParametricConductivity "False"
+     .ReferenceCoordSystem "Global"
+     .CoordSystemType "Cartesian"
+     .SigmaM "0"
+     .TanDM "0.0"
+     .TanDMFreq "0.0"
+     .TanDMGiven "False"
+     .TanDMModel "ConstSigma"
+     .EnableUserConstTanDModelOrderMu "False"
+     .ConstTanDModelOrderMu "1"
+     .SetMagParametricConductivity "False"
+     .DispModelEps  "None"
+     .DispModelMu "None"
+     .DispersiveFittingSchemeEps "Nth Order"
+     .MaximalOrderNthModelFitEps "10"
+     .ErrorLimitNthModelFitEps "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelEps "False"
+     .DispersiveFittingSchemeMu "Nth Order"
+     .MaximalOrderNthModelFitMu "10"
+     .ErrorLimitNthModelFitMu "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelMu "False"
+     .UseGeneralDispersionEps "False"
+     .UseGeneralDispersionMu "False"
+     .NLAnisotropy "False"
+     .NLAStackingFactor "1"
+     .NLADirectionX "1"
+     .NLADirectionY "0"
+     .NLADirectionZ "0"
+     .Colour "0.5", "0.8", "1" 
+     .Wireframe "False" 
+     .Reflection "False" 
+     .Allowoutline "True" 
+     .Transparentoutline "False" 
+     .Transparency "0" 
+     .Create
+[ENDMATERIAL]
+[MATERIAL: air_0]
+     .Rho "0.0"
+     .ThermalType "Normal"
+     .ThermalConductivity "0"
+     .SpecificHeat "0", "J/K/kg"
+     .DynamicViscosity "0"
+     .Emissivity "0"
+     .MetabolicRate "0.0"
+     .VoxelConvection "0.0"
+     .BloodFlow "0"
+     .MechanicsType "Unused"
+     .FrqType "all"
+     .Type "Normal"
+     .MaterialUnit "Frequency", "Hz"
+     .MaterialUnit "Geometry", "m"
+     .MaterialUnit "Time", "s"
+     .MaterialUnit "Temperature", "Kelvin"
+     .Epsilon "1.0"
+     .Mu "1.0"
+     .Sigma "0"
+     .TanD "0.0"
+     .TanDFreq "0.0"
+     .TanDGiven "False"
+     .TanDModel "ConstSigma"
+     .EnableUserConstTanDModelOrderEps "False"
+     .ConstTanDModelOrderEps "1"
+     .SetElParametricConductivity "False"
+     .ReferenceCoordSystem "Global"
+     .CoordSystemType "Cartesian"
+     .SigmaM "0"
+     .TanDM "0.0"
+     .TanDMFreq "0.0"
+     .TanDMGiven "False"
+     .TanDMModel "ConstSigma"
+     .EnableUserConstTanDModelOrderMu "False"
+     .ConstTanDModelOrderMu "1"
+     .SetMagParametricConductivity "False"
+     .DispModelEps  "None"
+     .DispModelMu "None"
+     .DispersiveFittingSchemeEps "Nth Order"
+     .MaximalOrderNthModelFitEps "10"
+     .ErrorLimitNthModelFitEps "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelEps "False"
+     .DispersiveFittingSchemeMu "Nth Order"
+     .MaximalOrderNthModelFitMu "10"
+     .ErrorLimitNthModelFitMu "0.1"
+     .UseOnlyDataInSimFreqRangeNthModelMu "False"
+     .UseGeneralDispersionEps "False"
+     .UseGeneralDispersionMu "False"
+     .NLAnisotropy "False"
+     .NLAStackingFactor "1"
+     .NLADirectionX "1"
+     .NLADirectionY "0"
+     .NLADirectionZ "0"
+     .Colour "0.6", "0.6", "0.6" 
+     .Wireframe "False" 
+     .Reflection "False" 
+     .Allowoutline "True" 
+     .Transparentoutline "False" 
+     .Transparency "0" 
+     .Create
+[ENDMATERIAL]
+[WAVEGUIDE: 1]
+     .Label "" 
+     .Folder "" 
+     .NumberOfModes "1" 
+     .AdjustPolarization "False" 
+     .PolarizationAngle "0" 
+     .ReferencePlaneDistance "0" 
+     .TextSize "50" 
+     .TextMaxLimit "0" 
+     .Coordinates "Free" 
+     .Orientation "zmin" 
+     .PortOnBound "False" 
+     .ClipPickedPortToBound "False" 
+     .Xrange "0", "23.3538" 
+     .Yrange "0", "6.6150000000000002" 
+     .Zrange "0", "0" 
+     .XrangeAdd "0.0", "0.0" 
+     .YrangeAdd "0.0", "0.0" 
+     .ZrangeAdd "0.0", "0.0" 
+     .SingleEnded "False" 
+     .WaveguideMonitor "False" 
+     .ReferenceWCS "11.6769", "3.3075", "0", "0", "0", "-1", "0", "1", "0"
+(TRANSFORM) "0", "1", "0", "0", "0", "1", "1", "0", "0"| "-84.5756", "-12.5483", "2.2204460492503e-16"(ENDTRANSFORM)
+[ENDWAVEGUIDE]

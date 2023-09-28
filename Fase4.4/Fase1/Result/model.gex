@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="MatrixCalc" version="20181214">
+  <Components>
+    <Shape name="Components\component1:linea" id="1" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="1 2 3 4 5 6"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:linea_1" id="2" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="7 8 9 10 11 12"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:linea_2" id="3" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="13 14 15 16 17 18"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:linea_3" id="4" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="19 20 21 22 23 24"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:linea_4" id="5" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="25 26 27 28 29 30"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco" id="6" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="31 32 33 34 35 36"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_1" id="7" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="37 38 39 40 41 42"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_1_1" id="8" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="43 44 45 46 47 48"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_1_2" id="9" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="49 50 51 52 53 54"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_1_3" id="10" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="55 56 57 58 59 60"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_1_4" id="11" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="61 62 63 64 65 66"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_2" id="12" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="67 68 69 70 71 72"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_3" id="13" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="73 74 75 76 77 78"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_4" id="14" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="79 80 81 82 83 84"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:mordisco_5" id="15" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="85 86 87 88 89 90"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:parche" id="16" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="91 92 93 94 95 96 97 98 99 100 101 102 103 104"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:parche_1" id="17" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="105 106 107 108 109 110 111 112 113 114 115 116 117 118"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:parche_2" id="18" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="119 120 121 122 123 124 125 126 127 128 129 130 131 132"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:parche_3" id="19" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="133 134 135 136 137 138 139 140 141 142 143 144 145 146"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:parche_4" id="20" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="147 148 149 150 151 152 153 154 155 156 157 158 159 160"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:plano_masa" id="21" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list="161"/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:sustrato" id="22" visible="1" material="Folder1/FR4" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="162 163 164 165 166 167"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_1" id="23" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="168 169 170 171 172 173"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_10" id="24" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="174 175 176 177 178 179"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_11" id="25" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="180 181 182 183 184 185"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_12" id="26" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="186 187 188 189 190 191"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_13" id="27" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="192 193 194 195 196 197"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_14" id="28" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="198 199 200 201 202 203"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_15" id="29" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="204 205 206 207 208 209"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_16" id="30" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="210 211 212 213 214 215 216"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_17" id="31" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="217 218 219 220 221 222"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_18" id="32" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="223 224 225 226 227 228 229"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_19" id="33" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="230 231 232 233 234 235"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_2" id="34" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="236 237 238 239 240 241 242"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_20" id="35" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="243 244 245 246 247 248 249"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_21" id="36" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="250 251 252 253 254 255"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_22" id="37" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="256 257 258 259 260 261 262"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_23" id="38" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="263 264 265 266 267 268"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_24" id="39" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="269 270 271 272 273 274 275"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_25" id="40" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="276 277 278 279 280 281"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_26" id="41" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="282 283 284 285 286 287"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_27" id="42" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="288 289 290 291 292 293"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_28" id="43" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="294 295 296 297 298 299"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_29" id="44" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="300 301 302 303 304 305 306"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_3" id="45" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="307 308 309 310 311 312"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_30" id="46" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="313 314 315 316 317 318"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_31" id="47" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="319 320 321 322 323 324"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_32" id="48" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="325 326 327 328 329 330 331"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_33" id="49" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="332 333 334 335 336 337"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_34" id="50" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="338 339 340 341 342 343 344"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_35" id="51" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="345 346 347 348 349 350"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_36" id="52" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="351 352 353 354 355 356 357"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_37" id="53" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="358 359 360 361 362 363"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_38" id="54" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="364 365 366 367 368 369"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_39" id="55" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="370 371 372 373 374 375 376"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_4" id="56" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="377 378 379 380 381 382 383"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_40" id="57" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="384 385 386 387 388 389"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_41" id="58" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="390 391 392 393 394 395"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_42" id="59" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="396 397 398 399 400 401"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_43" id="60" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="402 403 404 405 406 407"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_44" id="61" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="408 409 410 411 412 413 414"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_45" id="62" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="415 416 417 418 419 420"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_46" id="63" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="421 422 423 424 425 426"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_47" id="64" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="427 428 429 430 431 432 433"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_48" id="65" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="434 435 436 437 438 439"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_49" id="66" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="440 441 442 443 444 445 446"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_5" id="67" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="447 448 449 450 451 452"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_50" id="68" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="453 454 455 456 457 458"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_51" id="69" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="459 460 461 462 463 464 465"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_52" id="70" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="466 467 468 469 470 471"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_6" id="71" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="472 473 474 475 476 477 478"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_7" id="72" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="479 480 481 482 483 484"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_8" id="73" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="485 486 487 488 489 490 491"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\cond:import_9" id="74" visible="1" material="PEC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="492 493 494 495 496 497"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+  </Components>
+  <SimulationDomain min="-99.56522369385 -144.9896240234 0" max="35.39862442017 134.9896240234 21.60462379456"/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="PEC" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Vacuum" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Folder1/FR4" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slm" type="slim" subdomain_id=""/>
+  <MeshType type="HEX"/>
+  <Groups/>
+  <HexMesh>
+    <Dimensions nx="153" ny="342" nz="14"/>
+    <MeshPlanesX values="-99.5652229 -96.56729832 -93.56937374 -90.57144916 -87.57352458 -84.5756 -82.89085823963 -81.20611647926 -79.52137471888 -77.83663295851 -76.25256387538 -75.69780925026 -75.14305462513 -74.5883 -74.07696666667 -73.56563333333 -73.0543 -72.70145 -72.3486 -71.83599369018 -71.32338738036 -70.81078107054 -69.7971 -68.78341892946 -68.27081261964 -67.75820630982 -67.2456 -66.70022029416 -66.15484058832 -65.60946088248 -64.20708810192 -62.62915 -61.05121189808 -59.64883911752 -59.10345941168 -58.55807970584 -58.0127 -57.7672 -57.5831 -57.13313333333 -56.68316666667 -56.2332 -56.0491 -55.865 -55.32169090335 -54.7783818067 -54.23507271005 -52.86575379063 -51.3099 -49.75404620937 -48.38472728995 -47.8414181933 -47.29810909665 -46.7548 -46.307125 -45.85945 -45.411775 -44.9641 -44.41803082432 -43.87196164863 -43.32589247295 -41.91294673074 -40.32755326926 -38.91460752705 -38.36853835137 -37.82246917568 -37.2764 -36.74086666667 -36.20533333333 -35.6698 -35.4857 -35.18165 -34.8776 -34.4201 -33.9626 -33.5051 -33.109 -32.911 -32.6594 -32.12723289571 -31.59506579143 -31.06289868714 -29.84763782428 -28.40326217572 -27.18800131286 -26.65583420857 -26.12366710429 -25.5915 -25.1954 -24.79235 -24.3893 -23.9978 -23.6063 -23.2148 -22.91775 -22.6207 -22.4087 -21.9334 -21.4581 -20.93355 -20.409 -19.87101550494 -19.33303100988 -18.79504651482 -17.50096729824 -15.99988037894 -14.49879345965 -12.99770654035 -11.49661962106 -9.995532701765 -8.701453485176 -8.163468990117 -7.625484495059 -7.0875 -6.553718312826 -6.019936625652 -5.486154938478 -4.462845061522 -3.929063374348 -3.395281687174 -2.8615 -2.330408476967 -1.799316953934 -1.268225430901 -0.03834089696079 1.39588636768 2.83011363232 4.264340896961 5.494225430901 6.025316953934 6.556408476967 7.0875 7.625484495059 8.163468990117 8.701453485176 9.995532701765 11.49661962106 12.99770654035 14.49879345965 15.99988037894 17.50096729824 18.79504651482 19.33303100988 19.87101550494 20.409 20.95001930207 21.49103860415 22.03205790622 24.41346816479 27.15975684859 29.90604553239 32.6523342162 35.3986229"/>
+    <MeshPlanesY values="-144.9896229 -142.2433342162 -139.4970455324 -136.7507568486 -134.0044681648 -131.6230579062 -131.0820386041 -130.5410193021 -130 -129.4526021389 -128.9052042779 -128.3578064168 -126.8945035474 -125.2945964526 -123.8312935832 -123.2838957221 -122.7364978611 -122.1891 -121.69395 -121.1988 -120.70365 -120.2085 -119.8124 -119.6144 -119.0730362733 -118.5316725465 -117.9903088198 -116.6197 -115.2490911802 -114.7077274535 -114.1663637267 -113.625 -113.0877102164 -112.5504204327 -112.0131306491 -110.6988478944 -109.2047 -107.7105521056 -106.3962693509 -105.8589795673 -105.3216897836 -104.7844 -104.4 -104.1903 -103.9 -103.4333333333 -102.9666666667 -102.5 -102.2097 -102 -101.4558320236 -100.9116640472 -100.3674960709 -98.95245915047 -97.3875 -95.82254084953 -94.40750392915 -93.86333595277 -93.31916797638 -92.775 -92.23591803893 -91.69683607785 -91.15775411678 -89.8484598692 -88.33631592152 -86.82417197384 -85.31202802616 -83.79988407848 -82.2877401308 -80.97844588322 -80.43936392215 -79.90028196107 -79.3612 -78.96215 -78.5631 -78.05176666667 -77.54043333333 -77.0291 -76.845 -76.538 -76.231 -75.68296299456 -75.13492598912 -74.58688898368 -73.14539554404 -71.53843732642 -69.93147910881 -68.32452089119 -66.71756267358 -65.11060445596 -63.66911101632 -63.12107401088 -62.57303700544 -62.025 -61.48415156023 -60.94330312046 -60.40245468069 -59.03589030417 -57.5057 -55.97550969583 -54.60894531931 -54.06809687954 -53.52724843977 -52.9864 -52.8 -52.5903 -52.3 -51.83333333333 -51.36666666667 -50.9 -50.6097 -50.4 -49.85583202362 -49.31166404723 -48.76749607085 -47.35245915047 -45.7875 -44.22254084953 -42.80750392915 -42.26333595277 -41.71916797638 -41.175 -40.63005712512 -40.08511425024 -39.54017137536 -38.14679109036 -36.57355 -35.00030890964 -33.60692862464 -33.06198574976 -32.51704287488 -31.9721 -31.47695 -30.9818 -30.48665 -29.9915 -29.7539 -29.3974 -29.0409 -28.5391 -28.0373 -27.5355 -27.106 -26.59463333333 -26.08326666667 -25.5719 -25.21905 -24.8662 -24.33233156248 -23.79846312495 -23.26459468743 -21.99651936832 -20.53588063168 -19.26780531257 -18.73393687505 -18.20006843752 -17.6662 -17.31335 -16.9605 -16.44916666667 -15.93783333333 -15.4265 -15.181 -14.66266878748 -14.14433757496 -13.62600636245 -12.5483 -11.85437516445 -11.3779167763 -10.90145838815 -10.425 -9.89057939759 -9.356158795179 -8.821738192769 -7.547386614695 -6.081413385305 -4.807061807231 -4.272641204821 -3.73822060241 -3.2038 -2.6539 -2.2974 -1.9409 -1.57045 -1.2 -0.9903 -0.7 -0.29055 0.1189 0.40945 0.7 0.9903 1.2 1.4611 2.001801543565 2.54250308713 3.083204630694 4.414372252666 5.94305 7.471727747334 8.802895369306 9.34359691287 9.884298456435 10.425 10.8055 11.35626009972 11.90702019944 13.06524777697 14.70276603945 16.34028430193 17.97780256441 19.61532082689 21.25283908937 22.89035735185 24.52787561433 26.16539387681 27.80291213929 29.44043040177 30.95861970084 31.50937980056 32.06013990028 32.6109 33.10605 33.6012 34.09635 34.5915 34.9876 35.1856 35.72696372674 36.26832745349 36.80969118023 38.1803 39.55090881977 40.09227254651 40.63363627326 41.175 41.71228978365 42.2495795673 42.78686935094 44.10115210559 45.5953 47.08944789441 48.40373064906 48.9410204327 49.47831021635 50.0156 50.4 50.6097 50.9 51.36666666667 51.83333333333 52.3 52.5903 52.8 53.34416797638 53.88833595277 54.43250392915 55.84754084953 57.4125 58.97745915047 60.39249607085 60.93666404723 61.48083202362 62.025 62.56408196107 63.10316392215 63.64224588322 64.9515401308 66.46368407848 67.97582802616 69.48797197384 71.00011592152 72.5122598692 73.82155411678 74.36063607785 74.89971803893 75.4388 75.7458 76.0528 76.2369 76.74823333333 77.25956666667 77.7709 78.16995 78.569 79.11703700544 79.66507401088 80.21311101632 81.65460445596 83.26156267358 84.86852089119 86.47547910881 88.08243732642 89.68939554404 91.13088898368 91.67892598912 92.22696299456 92.775 93.31584843977 93.85669687954 94.39754531931 95.76410969583 97.2943 98.82449030417 100.1910546807 100.7319031205 101.2727515602 101.8136 102 102.2097 102.5 102.9666666667 103.4333333333 103.9 104.1903 104.4 104.9441679764 105.4883359528 106.0325039291 107.4475408495 109.0125 110.5774591505 111.9924960709 112.5366640472 113.0808320236 113.625 114.1767119612 114.7284239223 115.2801358835 116.8125 118.3448641165 118.8965760777 119.4482880388 120 120.5410193021 121.0820386041 121.6230579062 124.0044681648 126.7507568486 129.4970455324 132.2433342162 134.9896229"/>
+    <MeshPlanesZ values="0 0.5266666666667 1.053333333333 1.58 2.096725939397 2.613451878794 3.130177818191 4.540387704136 6.615 9.61292458 12.61084916 15.60877374 18.60669832 21.6046229"/>
+  </HexMesh>
+</MetaGeometryFile>

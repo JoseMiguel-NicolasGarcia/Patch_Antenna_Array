@@ -1,0 +1,47 @@
+ParaControl_AMD64 @ c0091-5-23-5:  Detected file access problems
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   File error (CST::FileNotFound)Could not open file H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill\Model^d0.d_fmf: No such file or directory
+                                   Detected file access problems in "H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill^1" and/or "H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill", # of iterations: 21
+                                   Could not save files in "H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill", # of iterations: 21
+ParaControl_AMD64 @ c0091-5-23-5:  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                   1xN parallelization error: 
+                                   xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ParaControl_AMD64 @ c0091-5-23-5:  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                   Could not save files in "H:\Practica2ConMordisco\Fase1\Result\Hex001\Meshfill", # of iterations: 21
+                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ParaControl_AMD64 @ c0091-5-23-5:  xxxxxxxxxxxxxxxxxxxxxxxxx
+                                   1xN parallelization error
+                                   xxxxxxxxxxxxxxxxxxxxxxxxx
+
+ParaControl_AMD64 @ c0091-5-23-5:  xxxxxxxxxxxxxxxx
+                                   Work item failed
+                                   xxxxxxxxxxxxxxxx
+
+ParaControl_AMD64 @ c0091-5-23-5:  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                   1xN parallelization error: 
+                                   xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ParaControl_AMD64 @ c0091-5-23-5:  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                   Error in calculating solver matrix
+                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+

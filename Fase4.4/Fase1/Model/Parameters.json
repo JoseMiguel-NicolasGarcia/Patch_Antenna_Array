@@ -1,0 +1,75 @@
+{
+    "parameters": [
+        {
+            "expr": "20.85",
+            "name": "W",
+            "value": "20.85"
+        },
+        {
+            "expr": "14.175",
+            "name": "L",
+            "value": "14.175"
+        },
+        {
+            "expr": "1.58",
+            "name": "h_sust",
+            "value": "1.58"
+        },
+        {
+            "expr": "250",
+            "name": "W_sust",
+            "value": "250"
+        },
+        {
+            "expr": "2*(L_strip-X0+L/2)",
+            "name": "L_sust",
+            "value": "40.818"
+        },
+        {
+            "expr": "0.035",
+            "name": "h_cobre",
+            "value": "0.035"
+        },
+        {
+            "expr": "17.5475",
+            "name": "L_strip",
+            "value": "17.5475"
+        },
+        {
+            "expr": "1.4",
+            "name": "W_strip",
+            "value": "1.4"
+        },
+        {
+            "expr": "4.226",
+            "name": "X0",
+            "value": "4.226"
+        },
+        {
+            "expr": "10",
+            "name": "Y_puerto",
+            "value": "10"
+        },
+        {
+            "expr": "5",
+            "name": "Z_puerto",
+            "value": "5"
+        },
+        {
+            "expr": "(1000*0.3)/f",
+            "name": "lambda",
+            "value": "60"
+        },
+        {
+            "expr": "5",
+            "name": "f",
+            "value": "5"
+        },
+        {
+            "expr": "64.1666",
+            "name": "l_cond",
+            "value": "64.1666"
+        }
+    ],
+    "version": 1
+}
