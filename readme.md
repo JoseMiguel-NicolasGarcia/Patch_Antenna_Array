@@ -53,8 +53,8 @@ This project aims to design an equi-spaced microstrip patch line array operating
 
 9. **Measurement in Anechoic Chamber**:
    - Conduct measurements in an anechoic chamber to validate the antenna's performance against the design specifications.
-![](Images/Picture3.png)
-![](Images/Picture4.png)
+![](Images/Picture3.jpg)
+![](Images/Picture4.jpg)
 
 10. **Documentation**:
     - Document the design process, including dimensions, simulation results, and measurement data, in a detailed report.
