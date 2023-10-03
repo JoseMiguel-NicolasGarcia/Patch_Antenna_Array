@@ -51,6 +51,9 @@ This project aims to design an equi-spaced microstrip patch line array operating
 8. **Fabrication**:
    - Fabricate the designed microstrip patch array on a fiberglass substrate with the calculated dimensions and layout.
 
+
+![](Images/Imagen10.jpg)
+
 9. **Measurement in Anechoic Chamber**:
    - Conduct measurements in an anechoic chamber to validate the antenna's performance against the design specifications.
 
